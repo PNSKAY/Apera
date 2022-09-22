@@ -1,0 +1,27 @@
+{
+   "token": "MTAwNjI3MjA3MjI0ODQ3NTcyOA.GStNcu.VSxtO_LUfVrGn-iNWs876CyW-eFSzBITkFskrg",
+   "prefix": "?",
+   "ownerIDS": [
+      "836958855866089512"
+   ],
+   "status": {
+      "text": "{prefix}help | {guildcount} Guilds",
+      "text2": "?help",
+      "type": "PLAYING",
+      "url": ""
+   },
+   "clientsettings": {
+      "nodes": [
+          {
+        "host": "18.219.253.190",
+        "port": 80,
+        "password": "LAVA",
+        "secure": false
+      }
+      ]
+   },
+   "spotify": {
+      "clientID": "69ebbd15cba9474a9d46e5aa95733b15",
+      "clientSecret": "185da21de3904b7db61d4d12c455c166"
+   }
+}
